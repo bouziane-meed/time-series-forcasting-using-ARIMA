@@ -1,2 +1,2 @@
 # time-series-forcasting-using-ARIMA
-create a web application for visualizatin and time series forcasting using ARIMA model
+create a web application for visualization and time series forcasting using ARIMA model
